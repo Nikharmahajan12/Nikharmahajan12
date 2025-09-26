@@ -3,7 +3,7 @@
 
 🎓 B.Tech IT Student (2022–2026) | 💻 Aspiring Software Developer  
 🌱 Currently learning MERN Stack (MongoDB, Express, React, Node.js)  
-🚀 Passionate about building web applications and solving problems  
+🚀 Passionate about building web applications and solving problems including DSA
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: [Your LinkedIn Link Here]  
+- LinkedIn: https://www.linkedin.com/in/nikhar-mahajan-b80336387  
 - GitHub: [github.com/Nikharmahajan12](https://github.com/Nikharmahajan12)  
 - Email: mahajannikhar203@gmail.com
 
