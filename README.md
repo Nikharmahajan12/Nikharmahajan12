@@ -17,7 +17,8 @@
 
 ## 📌 Projects
 - **Learning Management System** → Full-stack MERN app with payment integration  
-- **Google meet clone** → for more interactions 
+- **Google meet clone** → for more interactions
+- **Spotify-clone** → The project includes a responsive design, music player controls and a clean user interface to demonstrate frontend development skills.
 - (More coming soon 🚧)  
 
 ---
